@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: LCNScanner\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-25 18:08+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: plugin.py\n"
+
+#: plugin.py:415 plugin.py:422
+msgid "No entry in lcn db. Please do a service scan."
+msgstr ""
+
+#: plugin.py:443
+msgid "Enable terrestrial LCN:"
+msgstr ""
+
+#: plugin.py:444
+msgid "Terrestrial bouquet:"
+msgstr ""
+
+#: plugin.py:445
+msgid "LCN rules:"
+msgstr ""
+
+#: plugin.py:449
+msgid "Rebuild"
+msgstr ""
+
+#: plugin.py:450
+msgid "Exit"
+msgstr ""
+
+#: plugin.py:467
+msgid "Rebuild LCN bouquet now?"
+msgstr ""
+
+#: plugin.py:482
+msgid "LCN plugin for DVB-T/T2 services"
+msgstr ""
