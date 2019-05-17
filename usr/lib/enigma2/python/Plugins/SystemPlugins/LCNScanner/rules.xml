@@ -5,8 +5,10 @@
 		<rule type="marker" position="1001">Duplicati</rule>				
 	</ruleset>	
 	<ruleset name="Italy">		
-		<rule type="marker" position="0">Intrattenimento</rule>
-		<rule type="marker" position="10">Emittenti Locali</rule>
+		<!--
+        <rule type="marker" position="0">Intrattenimento</rule>
+		-->
+        <rule type="marker" position="10">Emittenti Locali</rule>
 		<rule type="marker" position="20">Semi-Generalisti</rule>
 		<rule type="marker" position="40">Bambini e Ragazzi</rule>
 		<rule type="marker" position="48">Informazione e Cultura</rule>

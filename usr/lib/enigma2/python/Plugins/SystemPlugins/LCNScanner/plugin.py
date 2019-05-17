@@ -192,9 +192,9 @@ class LCN():
 			
 		#print " New LIST LEN: " , len(self.newlist)
 			
-		f.write("#NAME Terrestrial LCN\n")
-		f.write("#SERVICE 1:64:0:0:0:0:0:0:0:0::Terrestrial LCN\n")
-		f.write("##DESCRIPTION Terrestrial LCN\n")
+		f.write("#NAME Digitale Terrestre\n")
+		# f.write("#SERVICE 1:64:0:0:0:0:0:0:0:0::Digitale Terrestre\n")
+		# f.write("##DESCRIPTION Digitale Terrestre\n")
 		for x in self.newlist:
 			if int(x[1]) == 11111111:
 				#print x[0], " Detected 111111111111 service"
@@ -272,8 +272,8 @@ class LCN():
 		#print " New LIST LEN: " , len(self.newlist)
 			
 		f.write("#NAME Terrestrial Radio LCN\n")
-		f.write("#SERVICE 1:64:0:0:0:0:0:0:0:0::Terrestrial RADIO LCN\n")
-		f.write("##DESCRIPTION Terrestrial RADIO LCN\n")
+		# f.write("#SERVICE 1:64:0:0:0:0:0:0:0:0::Terrestrial RADIO LCN\n")
+		# f.write("##DESCRIPTION Terrestrial RADIO LCN\n")
 		for x in self.newlist:
 			if int(x[1]) == 11111111:
 				#print x[0], " Detected 111111111111 service"
